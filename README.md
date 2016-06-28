@@ -1,3 +1,3 @@
 ##Julia Projects
-## Getting Started
-## GLM _benchmarking_
+# Getting Started
+# GLM _benchmarking_
